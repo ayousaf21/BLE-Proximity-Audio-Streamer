@@ -1,9 +1,10 @@
 # **🎵 A2DP Audio Source for ESP32**
 ### *Stream Audio from SD Card to Bluetooth Speakers on device detection via BLE*
 
-This project leverages the ESP32's Bluetooth capabilities to stream audio files from an SD card to Bluetooth speakers using the A2DP (Advanced Audio Distribution Profile) protocol. Via BLE, ESP32 monitors if requiered BLE beacon is present within 20cm range or not. If found, ESP32 plays Audio from SD card. Built on the Arduino framework and managed with PlatformIO, it offers a seamless integration of hardware and software for wireless audio applications.
+This project leverages the ESP32's Bluetooth capabilities to stream audio files from an SD card to Bluetooth speakers using the A2DP (Advanced Audio Distribution Profile) protocol. Via BLE, ESP32 monitors if requiered BLE beacon is present within 20cm range or not. If found, ESP32 plays Audio from SD card. Built on the Arduino framework and managed with PlatformIO, it offers a seamless integration of hardware and 
+software for wireless audio applications.
 
-![diagram](https://github.com/user-attachments/assets/5d925f39-5ccb-497e-8a50-69c02ed785a1)
+![diagram](https://github.com/user-attachments/assets/0c950448-53a1-4a2d-bb14-f8e24f3ad410)
 
 
 ## **🚀 Features**
